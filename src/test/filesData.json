@@ -1,0 +1,182 @@
+[
+  {
+      "file": "test2.csv",
+      "lines": [
+          {
+              "text": "DzgnZkrVvDSjEwGTOMYGiipfF",
+              "number": 89,
+              "hex": "32d1f3e1b29a12e3036aae60aeb2bff0"
+          }
+      ]
+  },
+  {
+      "file": "test3.csv",
+      "lines": [
+          {
+              "text": "ueoxndBjnhVK",
+              "number": 4421768,
+              "hex": "24ea6f85a0ed28fe3a3e3fac7cfd69d7"
+          },
+          {
+              "text": "lsScLFAitSillWGLpNjf",
+              "number": 9341,
+              "hex": "bdf5481327ac3347011026ead303fae6"
+          },
+          {
+              "text": "tbbykyZzfLg",
+              "number": 389759,
+              "hex": "048919802a6f9c2bd71a1c62de10938a"
+          }
+      ]
+  },
+  {
+      "file": "test18.csv",
+      "lines": [
+          {
+              "text": "iOT",
+              "number": 6.025961085699034e+31,
+              "hex": "jza588ec5abddb0c405925db4b25b5"
+          },
+          {
+              "text": "MdQWDtoPTpvmTPBpMqEguhekm",
+              "number": 761395,
+              "hex": "jz159c9b90793126b3b28887102fa5"
+          },
+          {
+              "text": "AZlTl",
+              "number": 51160,
+              "hex": "jzfa77fd5f51509e3d8d7146d4cc40"
+          },
+          {
+              "text": "yXPtNd",
+              "number": 31,
+              "hex": "jz1ab3c872a002d539474f8d774a47"
+          },
+          {
+              "text": "RqFUHRvQeZJdgO",
+              "number": 437310809,
+              "hex": "jzddad6f20550f00f81fcf5b5785e3"
+          }
+      ]
+  },
+  {
+      "file": "test6.csv",
+      "lines": [
+          {
+              "text": "cfxbKWffU",
+              "number": 1,
+              "hex": "89ad4d148c18e7fae0f180925a256720"
+          },
+          {
+              "text": "rEoeCcrfRzjNkJcNRJJfrfaWTHkd",
+              "number": 79385,
+              "hex": "bae2a9d441c5e2556d53a72bb5f36294"
+          },
+          {
+              "text": "NxAgglLvfOLvXPFMdqaEPwDzaXEq",
+              "number": 347300,
+              "hex": "c7b52e73b17c9e5067abd88ed2ae3099"
+          },
+          {
+              "text": "dW",
+              "number": 602072,
+              "hex": "3600fe976fa357357a7cf7109a183d8a"
+          },
+          {
+              "text": "WvPUXhRjwbB",
+              "number": 294600271,
+              "hex": "499d0f9df4b129dc94816860871b8d33"
+          },
+          {
+              "text": "RrEOhTiEyOBDVC",
+              "number": 728496,
+              "hex": "da2948c0186e46c81f1f6ffa2723abab"
+          },
+          {
+              "text": "VnvXphbSHXdpLTuqKfPrZtjPP",
+              "number": 1793,
+              "hex": "cd83f77e6bb48fc31f0d371358f1ce6c"
+          },
+          {
+              "text": "DyXwQu",
+              "number": 45,
+              "hex": "3648a0d60ec2937581749beec695bbd6"
+          },
+          {
+              "text": "ZKmTMfNafjz",
+              "number": 1713959,
+              "hex": "4d3ee886c1bee61b9a40668bcb6cc66e"
+          },
+          {
+              "text": "TVPsvzmuIHHoSPwBxIVCxNpjAsPZNVtN",
+              "number": 63402307,
+              "hex": "cb6d5ef156209e8dbb530b4f16824e65"
+          }
+      ]
+  },
+  {
+      "file": "test9.csv",
+      "lines": [
+          {
+              "text": "YOKkINJmZgSSyJXubn",
+              "number": 14238385,
+              "hex": "7b12047280ec9946193c081d508e1109"
+          },
+          {
+              "text": "caDEEAXJSUQlCIXw",
+              "number": 901,
+              "hex": "f6c2ed1e8a237f5ff6bbeb0919fa1c3f"
+          },
+          {
+              "text": "bATr",
+              "number": 5,
+              "hex": "ab319221185aacaf8f8e3d83f18f4da3"
+          },
+          {
+              "text": "og",
+              "number": 132737215,
+              "hex": "68c1868fc24bbd2f444058f23ad30bfa"
+          },
+          {
+              "text": "TqjxbeUyIEotxmFhVvv",
+              "number": 958424,
+              "hex": "b13474c6e85d48fe6488cd5bb34529b1"
+          },
+          {
+              "text": "QE",
+              "number": 68523133,
+              "hex": "4918d383a03b999ad9c638664eb62305"
+          },
+          {
+              "text": "odvvlrtbHzIhdjsRmNWpdDNLwmoO",
+              "number": 1773973,
+              "hex": "b9c04b85d41b377d403b876cacce1d88"
+          },
+          {
+              "text": "rcZxIXeUTVPnKpXDTmtZWgcrO",
+              "number": 5.734700559808787e+31,
+              "hex": "dceda5c31ff17634d87b368febe302ad"
+          },
+          {
+              "text": "RJpFd",
+              "number": 474218,
+              "hex": "dfce927da185d47fac074f09d95974e1"
+          },
+          {
+              "text": "jZsyUjGGcrSqlGqv",
+              "number": 8526,
+              "hex": "74919c8e76cc08486cfb6c16ec97a304"
+          },
+          {
+              "text": "evHukhbWleVG",
+              "number": 156243,
+              "hex": "accddce640f699da1e9ad1f4c976f9c5"
+          },
+          {
+              "text": "bHLSFjpNMhAWgKcgvYU",
+              "number": 11357114,
+              "hex": "6c294f76d916d1c4873e3f54e5c94cdf"
+          }
+      ]
+  }
+]
